@@ -31,12 +31,20 @@ However, the framing varied based on age:
 - **70 yrs:** Included older-adult services (e.g., Silver Line) and focused on isolation  
 
 ## Conclusion
-AI responses were safe and appropriate, but they adapted based on demographic context.
+AI responses were safe and appropriate, but they adapted based on demographic context. The findings highlight the tension between beneficial personalisation and the risk of demographic bias in AI-supported mental health triage systems.
 
 This raises important questions about:
 - Personalisation vs fairness  
 - Consistency in AI health advice  
-- Potential bias in digital triage systems  
+- Potential bias in digital triage systems
+
+- ## Limitations
+
+- Small exploratory sample
+- Only one chatbot tested
+- Single prompt scenario
+- Responses may vary over time due to model updates
+- No clinical validation performed
 
 ## Future Work
 - Test more demographics (gender, ethnicity)  
